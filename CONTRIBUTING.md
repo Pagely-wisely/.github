@@ -18,7 +18,9 @@
 
 - `dev` : 기능 개발 내용을 통합하는 기본 개발 브랜치
 
-- `feat` : 개별 개발 브랜치
+- `feat/{issue-number}-{short-description}`
+
+  - 개별 기능 개발 브랜치
 
 - `release/*` : 배포 직전 dev에서 분기하는 릴리즈 브랜치
 
